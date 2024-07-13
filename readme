@@ -1,0 +1,52 @@
+Desafio do Curso da Dio - Criando um NFT na Pratica, Instruido pelo ###Especialista Ricardo Zago
+A seguir 5 passos de como foi criado:
+
+Passo 1: Acesse OpenSea e crie uma Conta,
+  Clique em "Create" no canto superior direito.
+  Conecte sua carteira digital (por exemplo, MetaMask).
+
+Passo 2: Adicione a Rede Polygon ao MetaMask
+  Abra o MetaMask e vá para "Configurações" > "Redes" > "Adicionar Rede".
+  Insira as seguintes informações:
+  Nome da Rede: Polygon
+  URL do RPC: https://polygon-rpc.com
+  ID da Cadeia: 137
+  Símbolo da Moeda: MATIC
+  URL do Explorador: https://polygonscan.com
+
+Passo 3: Crie uma Coleção no OpenSea
+  No seu perfil do OpenSea, clique em "My Collections" (Minhas Coleções).
+  Clique em "Create a collection" (Criar uma coleção).
+  Preencha os detalhes da coleção:
+  Logo Image: Upload do logo da coleção.
+  Featured Image: Imagem em destaque para a coleção.
+  Banner Image: Banner para a página da coleção.
+  Name: Nome da coleção.
+  URL: URL personalizada para a coleção.
+  Description: Descrição detalhada da coleção.
+  Category: Categoria da coleção.
+  Links: Adicione links para o site, Discord, Instagram, etc.
+  Royalties: Defina a porcentagem de royalties.
+  Blockchain: Escolha "Polygon".
+  Payment Tokens: Selecione os tokens de pagamento (padrão é WETH).
+
+Passo 4: Adicione um Novo Item à Coleção
+  Dentro da sua coleção, clique em "Add New Item" (Adicionar Novo Item).
+  Faça o upload do arquivo (imagem, vídeo, áudio, etc.) que você deseja transformar em um NFT.
+  Preencha os detalhes do NFT:
+   Name: Nome do NFT.
+   External Link: Link externo para mais informações.
+   Description: Descrição do NFT.
+   Collection: Selecione a coleção à qual este NFT pertence.
+   Properties, Levels, Stats: Adicione características detalhadas, níveis e estatísticas, se aplicável.
+   Unlockable Content: Marque se há conteúdo desbloqueável após a compra.
+   Explicit & Sensitive Content: Marque se o conteúdo é explícito ou sensível.
+   Supply: Defina a quantidade (normalmente é 1 para itens únicos).
+   Blockchain: Escolha "Polygon".
+   Clique em "Create" para criar o NFT.
+
+Passo 5: Listar o NFT (Opcional)
+  Após criar o NFT, você será redirecionado para a página do item.
+  Clique em "Sell" (Vender) no canto superior direito.
+  Defina o preço e as condições de venda.
+  Clique em "Complete Listing" (Concluir Listagem).
